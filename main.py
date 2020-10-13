@@ -8,8 +8,8 @@ import processing
 
 
 itunesXMLFile = 'itunes Music Library.xml'
-playlistApple = 'Drive'
-playlistSpotify = 'Drive'
+playlistApple = 'The Sync'
+playlistSpotify = 'The Sync'
 
 app = Flask(__name__)
 
