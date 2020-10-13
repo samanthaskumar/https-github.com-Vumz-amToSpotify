@@ -7,8 +7,8 @@ import json
 
 
 #API client keys
-clientID = envVariables.clientID
-clientSecret = envVariables.clientSecret
+clientID = envVariables.c2c8a1fd970e408baf8ab9fb53717156
+clientSecret = envVariables.902adcc84068425d9d13d7c53b5a2306
 
 #URLS
 spotifyAuthURL = 'https://accounts.spotify.com/authorize'
